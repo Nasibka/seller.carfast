@@ -30,10 +30,6 @@ ul li {
 }
 
 .page1 .link {
-  margin-bottom: 10px;
-}
-
-.page1 .subtext {
   margin-bottom: 60px;
 }
 
@@ -48,10 +44,6 @@ ul li {
 
 .page2 .blue-box {
   margin-bottom: 20px;
-}
-
-.page2 .subtext {
-  margin-bottom: 30px;
 }
 
 .page2 .link {
@@ -84,15 +76,7 @@ ul li {
 }
 
 .page3 h2 {
-  margin-bottom: 10px;
-}
-
-.page3 .subtext {
-  margin-bottom: 80px;
-}
-
-.page3 h2 + .subtext {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .page3 .yellow-box {
@@ -106,10 +90,6 @@ ul li {
 .question .blue-box {
   margin-bottom: 20px;
 }
-
-/* .question span {
-  margin-bottom: 30px;
-} */
 
 .question {
   margin-bottom: 40px;
