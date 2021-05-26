@@ -1,4 +1,4 @@
-# carfast2
+# carfast
 
 ## Project setup
 ```

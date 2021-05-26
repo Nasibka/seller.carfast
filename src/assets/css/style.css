@@ -1,0 +1,116 @@
+h3 {
+  margin-bottom: 40px;
+}
+
+img.car {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 30px;
+}
+
+ul {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 350px;
+  list-style-type: disc;
+  font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 50px;
+}
+
+ul li {
+  line-height: 25px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.page1 .yellow-box {
+  margin-bottom: 10px;
+}
+
+.page1 .link {
+  margin-bottom: 10px;
+}
+
+.page1 .subtext {
+  margin-bottom: 60px;
+}
+
+.page1 .yellow-box,
+.page2 .yellow-box {
+  width: 400px;
+} 
+
+.page2 h2 {
+  margin-bottom: 30px;
+}
+
+.page2 .blue-box {
+  margin-bottom: 20px;
+}
+
+.page2 .subtext {
+  margin-bottom: 30px;
+}
+
+.page2 .link {
+  margin-bottom: 10px;
+}
+
+.page2 .yellow-box {
+  margin-bottom: 60px;
+}
+
+.point {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.point .blue-box {
+  width: 250px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.point p {
+  width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+  line-height: 22px;
+}
+
+.page3 h2 {
+  margin-bottom: 10px;
+}
+
+.page3 .subtext {
+  margin-bottom: 80px;
+}
+
+.page3 h2 + .subtext {
+  margin-bottom: 20px;
+}
+
+.page3 .yellow-box {
+  margin-bottom: 30px;
+}
+
+.page3 .link {
+  margin-bottom: 15px;
+}
+
+.question .blue-box {
+  margin-bottom: 20px;
+}
+
+/* .question span {
+  margin-bottom: 30px;
+} */
+
+.question {
+  margin-bottom: 40px;
+}
