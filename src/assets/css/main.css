@@ -42,6 +42,9 @@ h1, h2, h3, div, span, p {
 
 .yellow-box {
   background-color: #ffdb65;
+  cursor: pointer;
+  color: #000;
+  text-decoration: none;
 }
 
 .blue-box {

@@ -1,16 +1,14 @@
 <template>
   <div id="app">
-    <router-view></router-view>
+    <SellerPage />
   </div>
 </template>
 
 <script>
-import BuyerPage from '@/views/BuyerPage.vue'
-import SellerPage from '@/views/SellerPage.vue'
+import SellerPage from './SellerPage.vue'
 
 export default {
   components: {
-    BuyerPage,
     SellerPage
   }
 }

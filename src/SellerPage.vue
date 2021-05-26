@@ -18,16 +18,18 @@
         <li>Любое авто, любого года может быть выставлено на аукцион</li>
       </ul>
 
-      <div class="box yellow-box">ХОЧУ ДОРОГО ПРОДАТЬ АВТО</div>
+      <a href="https://auction.carfast.kz/create" class="box yellow-box">ХОЧУ ДОРОГО ПРОДАТЬ АВТО</a>
 
-      <router-link to="/" class="link">Хочу купить авто</router-link>
+      <a href="https://buyer.carfast.kz" class="link">Хочу купить авто</a>
     </section>
 
     <section class="page2">
       <h2>КАК ЭТО РАБОТАЕТ?</h2>
 
       <div class="point">
-        <div class="box blue-box">ПРИМЕР ФОТО</div>
+        <div class="box blue-box">
+          <img src="@/assets/img/auction-screen-1.jpg" alt="image">
+        </div>
         <span>ШАГ 1</span>
         <p>
           Сделайте фото Вашего авто по нашим примерам
@@ -35,7 +37,9 @@
       </div>
 
       <div class="point">
-        <div class="box blue-box">СКРИН АУКЦИОНА</div>
+        <div class="box blue-box">
+          <img src="@/assets/img/auction-screen-2.jpg" alt="image">
+        </div>
         <span>ШАГ 2</span>
         <p>
           Наблюдайте как цена на Ваше авто растет и дождитесь окончания аукциона
@@ -43,14 +47,16 @@
       </div>
 
       <div class="point">
-        <div class="box blue-box">СКРИН ВЫСОКОЙ ЦЕНЫ</div>
+        <div class="box blue-box">
+          <img src="@/assets/img/auction-screen-3.jpg" alt="image">
+        </div>
         <span>ШАГ 3</span>
         <p>
           Соглашайтесь на самую высокую предложенную цену
         </p>
       </div>
 
-      <div class="box yellow-box">ХОЧУ ДОРОГО ПРОДАТЬ АВТО</div>
+      <a href="https://auction.carfast.kz/create" class="box yellow-box">ХОЧУ ДОРОГО ПРОДАТЬ АВТО</a>
     </section>
 
     <section class="page3">
@@ -117,9 +123,9 @@
         </p>
       </div>
 
-      <div class="box yellow-box">ВСЕ ПОНЯТНО, ХОЧУ ПРОДАТЬ АВТО</div>
+      <a href="https://auction.carfast.kz/create" class="box yellow-box">ВСЕ ПОНЯТНО, ХОЧУ ПРОДАТЬ АВТО</a>
 
-      <router-link to="/" class="link">Хочу купить авто</router-link>
+      <a href="https://buyer.carfast.kz" class="link">Хочу купить авто</a>
     </section>
   </div>
 </template>
