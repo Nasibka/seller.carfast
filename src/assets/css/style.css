@@ -4,7 +4,7 @@ h3 {
 
 img.car {
   margin: 0 auto;
-  width: 100%;
+  width: 95%;
   max-width: 400px;
   margin-bottom: 30px;
 }
@@ -35,7 +35,8 @@ ul li {
 
 .page1 .yellow-box,
 .page2 .yellow-box {
-  width: 400px;
+  width: 95%;
+  max-width: 400px;
 } 
 
 .page2 h2 {
